@@ -31,7 +31,7 @@ function preload() {
 
   jumpSound = loadSound("jump.mp3"); // carregando os sons de jogo - Pular
   dieSound = loadSound("die.mp3"); // carregando os sons de jogo - Colide 
-  checkPointSound = loadSound("checkPoint.mp3");// carregando os sons de jogo - a cada 100pts
+  checkPointSound = loadSound("checkpoint.mp3");// carregando os sons de jogo - a cada 100pts
 
 }
 
